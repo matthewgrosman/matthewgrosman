@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=FCFC04&logo=JavaScript&logoColor=222020)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&color=1A80D5&logo=cplusplus&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&color=000000&logo=c&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&color=FF5A5A&logo=MySQL&logoColor=222020)
@@ -26,3 +27,5 @@
 ![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&color=C48D26&logo=Jupyter&logoColor=000000)
 ![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&color=1B89FE&logo=r&logoColor=000000)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+#
+![Last commit](https://img.shields.io/github/last-commit/matthewgrosman/frank-ocean-bot.svg)
