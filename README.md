@@ -8,8 +8,8 @@
 ### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&color=1B89FE&logo=Python&logoColor=FCFC1A)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&color=0a375a&logo=AmazonAWS&logoColor=FF9027)
-![CDK](https://img.shields.io/badge/-CDK-000000?style=for-the-badge&color=0a375a&logo=AmazonAWS&logoColor=FF9027)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CDK](https://img.shields.io/badge/-AWS%20CDK-000000?style=for-the-badge&color=0a375a&logo=AmazonAWS&logoColor=FF9027)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&color=4DB33D&logo=MongoDB&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
