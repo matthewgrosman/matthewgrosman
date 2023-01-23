@@ -1,7 +1,6 @@
 ### About Me
 - 💻 Current software engineer
-- 👀 I like learning about new and interesting APIs that I can use for a project
-- 🧑‍ Working on fun projects when I have some time
+- 👀 Working on fun projects when I have some time
 - ☕️ I love coffee
 - ✉️ Get in touch with me here: https://www.linkedin.com/in/matthewgrosman/
 
