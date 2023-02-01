@@ -28,4 +28,4 @@
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
 
 #
-![Last commit](https://img.shields.io/github/last-commit/matthewgrosman/frank-ocean-bot.svg)
+![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/frank-ocean-bot.svg)
