@@ -1,7 +1,6 @@
 ### About Me
-- 💻 Current software engineer
+- 💻 Software engineer
 - 👀 Working on fun projects when I have some time
-- ☕️ I love coffee
 - ✉️ Get in touch with me here: https://www.linkedin.com/in/matthewgrosman/
 
 ### Tech Stack
