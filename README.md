@@ -1,5 +1,5 @@
 ### About Me
-- 💻 Software engineer
+- 💻 Software engineer @ Amazon
 - 👀 Working on fun projects when I have some time
 - ✉️ Get in touch with me here: https://www.linkedin.com/in/matthewgrosman/
 
