@@ -9,6 +9,7 @@
 [![CDK](https://img.shields.io/badge/-AWS%20CDK-000000?style=for-the-badge&color=0a375a&logo=AmazonAWS&logoColor=FF9027)](https://aws.amazon.com/cdk/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&color=4DB33D&logo=MongoDB&logoColor=FFFFFF)](https://www.mongodb.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=FCFC04&logo=JavaScript&logoColor=222020)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -24,6 +25,8 @@
 [![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&color=C48D26&logo=Jupyter&logoColor=000000)](https://jupyter.org/)
 [![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&color=1B89FE&logo=r&logoColor=000000)](https://www.r-project.org/)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
+
+
 <!---
  ![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/jank-uploader.svg)
  -->
