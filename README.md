@@ -24,6 +24,6 @@
 [![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&color=C48D26&logo=Jupyter&logoColor=000000)](https://jupyter.org/)
 [![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&color=1B89FE&logo=r&logoColor=000000)](https://www.r-project.org/)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
-
-#
-# ![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/jank-uploader.svg)
+<!---
+ ![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/jank-uploader.svg)
+ -->
