@@ -27,4 +27,4 @@
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
 
 
-![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/exoskeleton.svg)
+![last-commit](https://img.shields.io/github/last-commit/matthewgrosman/gear-builder.svg)
